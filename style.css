@@ -14,6 +14,14 @@
     padding-left: 1rem;
 }
 
+.custom-width{
+    width: 70%;
+}
+
+.custom-margin{
+    margin: 0 auto;
+}
+
 /* p{
     width: 50%;
 } */
