@@ -22,6 +22,50 @@
     margin: 0 auto;
 }
 
+.grid-margin{
+    margin: 25px 0;
+}
+
+.inside-margin{
+    margin: 5px;
+}
+
+span{
+    font-size:15px;
+}
+a{
+  text-decoration:none; 
+  color: #0062cc;
+  
+}
+.box{
+    padding:60px 0px;
+}
+
+.box-part{
+    background:#FFF;
+    border-radius:0;
+    padding:40px 5px;
+    margin:20px 0px;
+}
+.text{
+    margin:10px 0px;
+}
+
+.fa{
+     color:#4183D7;
+}
+
+/* .borders{
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin: 1px;
+    
+} */
+
+.soc-width{
+    width: 30%;
+}
 /* p{
     width: 50%;
 } */
